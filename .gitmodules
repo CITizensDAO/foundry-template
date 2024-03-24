@@ -1,0 +1,3 @@
+[submodule "citizens-template/lib/forge-std"]
+	path = citizens-template/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
